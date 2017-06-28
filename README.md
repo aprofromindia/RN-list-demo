@@ -2,7 +2,7 @@
 
 This is a cross platform React Native app (iOS/Android) that displays a list of ski-ing places in Switzerland.
 
-Please run the app running `npm install` and then starting the app typing `react-native run-android`.
+Please run the app typing `npm install` and then `react-native run-ios/run-android` from the command line. For Android make sure you have an Android emulator running already.
 
 - The app displays various advanced ES6/7 features including the *spread operators, instance variables, enhance object literal notation, arrow functions* etc. 
 
